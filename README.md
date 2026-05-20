@@ -1,5 +1,7 @@
 # Rubik's Cube Solver
 
+🚧Work Under Progress🚧
+
 This project scans a 3x3 Rubik's cube using a webcam and solves it using an optimized algorithm.
 
 Features:
